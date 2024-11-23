@@ -9,7 +9,7 @@ I'm a Frontend Developer specializing in modern web technologies and building sc
 - **Other Tools:** REST APIs, Redux, Context API,GraphQl,Zustand
 
 ## 💼 Professional Experience
-- Frontend Developer (April 2024 - Present)
+- Frontend Developer (January 2024 - Present)
   - Developing robust e-commerce applications
   - Creating intuitive admin dashboards
   - Building informative web platforms
