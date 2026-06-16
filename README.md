@@ -1,6 +1,6 @@
 # Hi there! I'm Eslam Bayome 👋
 
-I'm a Frontend Developer specializing in modern web technologies and building scalable applications.
+I'm a Senior Frontend Developer With +4 years of experince, specializing in modern web technologies and building scalable applications.
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, TypeScript, React
@@ -9,7 +9,7 @@ I'm a Frontend Developer specializing in modern web technologies and building sc
 - **Other Tools:** REST APIs, Redux, Context API,GraphQl,Zustand
 
 ## 💼 Professional Experience
-- Frontend Developer (March 2023 - Present)
+- Frontend Developer (Jan 2023 - Present)
   - Developing robust e-commerce applications
   - Creating intuitive admin dashboards
   - Building informative web platforms
